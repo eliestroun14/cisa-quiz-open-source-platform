@@ -1,0 +1,14 @@
+# Personal question banks: never published (see quiz/data/FORMAT.md)
+quiz/data/index.local.json
+quiz/data/cisa_dumps.json
+quiz/data/local/
+
+# Parser source documents
+parser/source_pdfs/
+*.pdf
+
+__pycache__/
+*.pyc
+node_modules/
+.DS_Store
+Thumbs.db
