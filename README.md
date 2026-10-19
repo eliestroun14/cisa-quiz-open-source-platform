@@ -20,13 +20,13 @@ No installation, no account, no data sent anywhere: everything runs in your brow
 
 ## Getting started
 
-Online: _(GitHub Pages link once published)_
+Online: **<https://eliestroun14.github.io/cisa-quiz-open-source-platform/>**
 
 Locally:
 
 ```sh
-git clone <repository-url>
-cd <repository>/quiz
+git clone https://github.com/eliestroun14/cisa-quiz-open-source-platform.git
+cd cisa-quiz-open-source-platform/quiz
 python -m http.server 8000      # or start.bat (Windows) / ./start.sh
 ```
 
